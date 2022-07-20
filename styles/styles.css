@@ -1,0 +1,16 @@
+*{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, 'Times New Roman', sans-serif;
+}
+
+.defaultPictureStyles{
+    border-style:solid;
+    border-color: white;
+    border-radius: 25px;
+    height: 300px;
+    width: 400px;
+}
+
+.wrapper{
+    width: 1000px;
+}
