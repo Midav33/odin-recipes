@@ -26,3 +26,17 @@
 .display_horizontal p{
     display: inline;
 }
+
+.links{
+    display: inline-flex;
+    padding: 10px;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    color: #2460A7FF;
+}
+
+.links:hover{
+    background-color: #2460A7FF;
+    color: white;
+}
